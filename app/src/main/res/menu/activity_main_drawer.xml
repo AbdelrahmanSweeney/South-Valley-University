@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_aboutUs"
+            android:icon="@drawable/about_us"
+            android:title="@string/about_university" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/adminstration"
+            android:title="@string/administration" />
+        <item
+            android:id="@+id/nav_faculties"
+            android:icon="@drawable/faculties"
+            android:title="@string/faculties" />
+        <item
+            android:id="@+id/nav_students"
+            android:icon="@drawable/students"
+            android:title="@string/students" />
+        <item
+            android:id="@+id/nav_results"
+            android:icon="@drawable/exams"
+            android:title="@string/results" />
+
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/contact_us"
+            android:title="@string/contact_us" />
+    </group>
+
+    <item android:title="@string/socialMedia">
+        <menu>
+            <item
+                android:id="@+id/nav_facebook"
+                android:icon="@drawable/facebook"
+                android:title="@string/facebook" />
+            <item
+                android:id="@+id/nav_twitter"
+                android:icon="@drawable/twitter"
+                android:title="@string/twitter" >
+
+            </item>
+        </menu>
+    </item>
+
+</menu>

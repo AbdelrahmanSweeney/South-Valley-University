@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جامعة جنوب الوادي</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">جامعة جنوب الوادي</string>
+    <string name="nav_header_subtitle">الرئيسية</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">about</string>
+    <string name="about_university">عن الجامعة</string>
+    <string name="administration">الادارة العليا</string>
+    <string name="faculties">الكليات</string>
+    <string name="students">الطلاب</string>
+    <string name="results">النتائج</string>
+    <string name="contact_us">تواصل معنا</string>
+    <string name="socialMedia">صفحات التواصل الاجتماعي</string>
+    <string name="facebook">فيسبوك</string>
+    <string name="twitter">تويتر</string>
+    <string name="south_vally_university">جامعة جنوب الوادي</string>
+    <string name="main">الرئيسية</string>
+    <string name="news">الأخبار</string>
+    <string name="todo">TODO</string>
+</resources>
